@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    padding: 10rem;
+ }
+.circle {
+    height: 4rem;
+    width: 4rem;
+    background-color: crimson; opacity: 0.9;
+    border-radius: 50%;
+    display: inline-block;
+} 
+div {
+    text-align: center;
+}
+.opacity1 {
+    background-color: crimson; opacity: 0.4;
+}
+.opacity2 {
+    background-color: crimson; opacity: 0.1;
+}
+.opacity3 {
+    background-color: crimson; opacity: 0.7;
+}
+.odd {
+    /* height: 3rem;
+    width: 3rem; */
+    border-radius: 10%;
+    background-color: rgb(80, 20, 220); opacity: 0.8;
+}
