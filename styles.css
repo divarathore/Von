@@ -26,3 +26,7 @@ div {
     border-radius: 10%;
     background-color: rgb(80, 20, 220); opacity: 0.8;
 }
+
+.odd:hover {
+    background-color: rgb(53, 125, 58);
+}
